@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/N-crypto/static/js/main.1d0d1cf9.js",
+    "static/media/btc.png": "/N-crypto/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/N-crypto/index.html",
+    "main.1d0d1cf9.js.map": "/N-crypto/static/js/main.1d0d1cf9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1d0d1cf9.js"
+  ]
+}
